@@ -1,0 +1,21 @@
+Python
+
+CMD(명령 프롬프터) 
+설치 - pip install (numpy)  () : 예시
+
+아나콘다
+설치 - conda install ...
+
+
+( 파이썬 독학 )
+점프 투 파이썬
+유튜브 - 6시간 파이썬 ( 나도코딩 )
+
+
+elements of AI 수료증 추천
+
+1.변수와 데이터타임
+https://bit.ly/3eHBQVw
+
+2. 연산자
+https://bit.ly/3h94uQO

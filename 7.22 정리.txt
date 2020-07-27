@@ -1,0 +1,26 @@
+반복문
+튜플, 딕셔너리, 집합
+함수
+모듈
+파일입출력
+딥러닝예제
+
+
+6. 반복문 
+https://bit.ly/3eFBiPL
+
+7. 튜플, 딕셔너리, 집합
+https://bit.ly/39gXY7M
+
+8. 함수
+https://bit.ly/3eStZnY
+
+10. 모듈
+https://bit.ly/39dZVCa
+책상은 책상이다 (독일 소설)
+
+11. 파일입출력
+https://bit.ly/2OGp5Qi
+
+12. 딥러닝예제
+https://bit.ly/2ZKEPrU
